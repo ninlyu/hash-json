@@ -1,0 +1,23 @@
+{
+  "name": "hash-json",
+  "version": "1.0.0",
+  "description": "hash to json and json to hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninlyu/hash-json.git"
+  },
+  "keywords": [
+    "hash",
+    "json"
+  ],
+  "author": "ninlyu.dev@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninlyu/hash-json/issues"
+  },
+  "homepage": "https://github.com/ninlyu/hash-json#readme"
+}
